@@ -14,7 +14,7 @@ Despite it is introduced for 3D face recognition, its applications can also be e
 ## Papers
 
 ```
-@article{emambakhsh2017nasal,
+@article{Emambakhsh:2017,
   title={Nasal patches and curves for expression-robust 3D face recognition},
   author={Emambakhsh, Mehryar and Evans, Adrian},
   journal={IEEE transactions on pattern analysis and machine intelligence},
@@ -26,7 +26,7 @@ Despite it is introduced for 3D face recognition, its applications can also be e
 }
 ```
 ```
-@inproceedings{emambakhsh2013using,
+@inproceedings{Emambakhsh:2013,
   title={Using nasal curves matching for expression robust 3D nose recognition},
   author={Emambakhsh, Mehryar and Evans, Adrian N and Smith, Melvyn},
   booktitle={Biometrics: Theory, Applications and Systems (BTAS), 2013 IEEE Sixth International Conference on},
