@@ -30,6 +30,6 @@ Despite it is introduced for 3D face recognition, its applications can also be e
   author={Emambakhsh, Mehryar and Evans, Adrian N and Smith, Melvyn},
   booktitle={IEEE Sixth International Conference on Biometrics: Theory, Applications and Systems (BTAS)},
   pages={1--8},
-  year={2013},
+  year={2013}
 }
 ```
