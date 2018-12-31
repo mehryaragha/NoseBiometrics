@@ -21,8 +21,7 @@ Despite it is introduced for 3D face recognition, its applications can also be e
   volume={39},
   number={5},
   pages={995--1007},
-  year={2017},
-  publisher={IEEE}
+  year={2017}
 }
 ```
 ```
