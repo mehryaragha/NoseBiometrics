@@ -29,9 +29,8 @@ Despite it is introduced for 3D face recognition, its applications can also be e
 @inproceedings{Emambakhsh:2013,
   title={Using nasal curves matching for expression robust 3D nose recognition},
   author={Emambakhsh, Mehryar and Evans, Adrian N and Smith, Melvyn},
-  booktitle={Biometrics: Theory, Applications and Systems (BTAS), 2013 IEEE Sixth International Conference on},
+  booktitle={IEEE Sixth International Conference on Biometrics: Theory, Applications and Systems (BTAS)},
   pages={1--8},
   year={2013},
-  organization={IEEE}
 }
 ```
