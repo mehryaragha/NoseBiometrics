@@ -1,8 +1,37 @@
-# NoseBiometrics
-This package implements the feature extraction algorithm using spherical patches from the Gabor-wavelet normal maps explained in:  
+# Using the Nose for biometric authentication
 
-M. Emambakhsh and A. Evans, “Nasal patches and curves for an expression-robust 3D face recognition,”  IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), vol. 39, no. 5, pp. 995-1007, 2017.  
+An implementation of the feature extraction algorithms using spherical patches and nasal curves from the Gabor-wavelet normal maps.
 
-Simply run the Demo_spherical_patched.m file to see a step by step output. 
+## Getting started
+
+Demo for Spherical Patches: ```Demo_spherical_patched.m```
+Demo for Nasal Curves: ```Demo_nasal_curves_patched.m```
+
+## Other appliations
 
 Despite it is introduced for 3D face recognition, its applications can also be extended to other classes of 2D, 2.5D or 3D images, given a set of landmarks are available over the region.
+
+## Papers
+
+```
+@article{emambakhsh2017nasal,
+  title={Nasal patches and curves for expression-robust 3D face recognition},
+  author={Emambakhsh, Mehryar and Evans, Adrian},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={39},
+  number={5},
+  pages={995--1007},
+  year={2017},
+  publisher={IEEE}
+}
+```
+```
+@inproceedings{emambakhsh2013using,
+  title={Using nasal curves matching for expression robust 3D nose recognition},
+  author={Emambakhsh, Mehryar and Evans, Adrian N and Smith, Melvyn},
+  booktitle={Biometrics: Theory, Applications and Systems (BTAS), 2013 IEEE Sixth International Conference on},
+  pages={1--8},
+  year={2013},
+  organization={IEEE}
+}
+```
